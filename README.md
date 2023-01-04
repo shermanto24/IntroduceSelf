@@ -6,7 +6,7 @@ This app introduces the user with an alert using the information inputted.
 
 ### App Walk-though
 
-<img src="https://github.com/shermanto24/IntroduceSelf/blob/main/Prework%20gif.gif" width=200><br>
+<img src="" width=200><br>
 
 ### Required Features
 
